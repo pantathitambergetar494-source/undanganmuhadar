@@ -28,7 +28,7 @@ window.WEDDING_DATA = {
   events: [
     {
       id: 'akad',
-      title: 'Akad Nikah',
+      title: 'Akad Nikah & Intat Linto',
       dateISO: '2026-10-29T10:00:00+07:00',
       day: 'Kamis',
       dateLabel: '29 Oktober 2026',
