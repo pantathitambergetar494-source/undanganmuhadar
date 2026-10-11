@@ -53,7 +53,13 @@ window.WEDDING_DATA = {
   gift: {
     enabled: true,
     shippingAddress: 'Desa Bungong',
-    accounts: []
+    accounts: [
+      {
+        bank: 'BSI',
+        number: '7225405454',
+        holder: 'Muhadar'
+      }
+    ]
   },
   features: {
     liveStreaming: false,
